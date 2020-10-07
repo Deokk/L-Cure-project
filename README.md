@@ -25,7 +25,7 @@
   개발 개요
 </h1>
 
-<br><img src="Img/md_1.png" style="width: 120px; height: auto;"><br>
+<br><img src="img/md_1.png" style="width: 120px; height: auto;"><br>
 <p>
   먼저 Helper팀이 해결하려고 하는 문제는 난독증입니다. <br>
 
@@ -33,7 +33,7 @@
   <br><br>
 </p>
 
-<br><img src="Img/md_2.png" style="width: 120px; height: auto;"><br>
+<br><img src="img/md_2.png" style="width: 120px; height: auto;"><br>
 <p>
   난독증이 걸린 사람들은 어떤 문제를 겪게 될까요?<br><br>
 
@@ -44,7 +44,7 @@
   <br>
 </p>
 
-<br><img src="Img/md_3.png" style="width: 120px; height: auto;"><br>
+<br><img src="img/md_3.png" style="width: 120px; height: auto;"><br>
 <p>
   난독증의 원인과 치료에 대해서는 이미 많은 의학적 연구가 이루어져 논쟁의 여지가 없이 결론이 나와 있습니다.<br>
 
@@ -52,7 +52,7 @@
   <br>
 </p>
 
-<br><img src="Img/md_4.png" style="width: 400px; height: auto;"><br>
+<br><img src="img/md_4.png" style="width: 400px; height: auto;"><br>
 <p>
   난독증의 치료를 위해서는 음운인식훈련과 파닉스 티칭, 유창성 트레이닝을 일대일 또는 소그룹 형태로 주 3회에서 4회 이상 시행하는 것이 효율적이라는 보고가 있습니다.<br>
 
