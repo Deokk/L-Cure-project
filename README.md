@@ -1,20 +1,20 @@
 <h1 align="center">
-  <strong>L-Cure</strong>
+  <strong>L-Cure Alpha Version</strong>
 </h1>
 
-<h2 align="center">
+<h3 align="center">
   <a href="https://www.autoeverapp.kr/">
     <strong>Barrier-Free App Development Contest Project</strong><br>
   </a>
-</h2>
+</h3>
 <h3 align="center">
   배리어프리 앱 개발 콘테스트 프로젝트 <br>
 <h3>
-<h2 align="center">
-  <a href="https://github.com/Deokk/L-Cure-project">
-    <strong>Application for dyslexia patients</strong> <br>
+<h3 align="center">
+  <a href="https://github.com/sukyung99/L_CURE">
+    <strong>Beta Version 바로 가기</strong> <br>
   </a>
-</h2>
+</h3>
 <h3 align="center">
   난독증 환자를 위한 어플리케이션
 </h3>
